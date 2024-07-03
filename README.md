@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EliAS4779
-- 🌱 I’m currently learning programming.
+- 👋 Hi
+- 🌱 I’m currently learning in my freetime.
 - 😄 Pronouns: he/him
 
 <!---
