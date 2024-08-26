@@ -1,6 +1,4 @@
-- 👋 Hi
-- 🌱 I’m currently learning in my freetime.
-- 😄 Pronouns: he/him
+:)
 
 <!---
 EliAS4779/EliAS4779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
