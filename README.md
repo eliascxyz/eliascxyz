@@ -1,6 +1,1 @@
-:)
-
-<!---
-EliAS4779/EliAS4779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B67259&center=true&width=435&lines=My+Linktree%3A+eliascxyz.github.io;https%3A%2F%2Fdsc.gg%2Fmythopia)](https://git.io/typing-svg)
